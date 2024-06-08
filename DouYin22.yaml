@@ -17,3 +17,10 @@ payload:
   - DOMAIN-SUFFIX,localization-duostrings.duolingo.com
   - DOMAIN-SUFFIX,duostrings.duolingo.com
   - DOMAIN-SUFFIX,duolingo.com
+  - DOMAIN-SUFFIX,stories.duolingo.cn
+  - DOMAIN-SUFFIX,ios-api-2.duolingo.cn
+  - DOMAIN-SUFFIX,midas-bandits-prod.duolingo.cn
+  - DOMAIN-SUFFIX,duolingo-achievements-prod.duolingo.cn
+  - DOMAIN-SUFFIX,duolingo-leaderboards-prod.duolingo.cn
+  - DOMAIN-SUFFIX,goals-api.duolingo.cn
+  - DOMAIN-SUFFIX,duolingo.cn
