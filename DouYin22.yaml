@@ -14,3 +14,6 @@ payload:
   - DOMAIN-SUFFIX,snssdk.com
   - DOMAIN-SUFFIX,toutiao.com
   - DOMAIN-SUFFIX,jpush.cn
+  - DOMAIN-SUFFIX,localization-duostrings.duolingo.com
+  - DOMAIN-SUFFIX,duostrings.duolingo.com
+  - DOMAIN-SUFFIX,duolingo.com
