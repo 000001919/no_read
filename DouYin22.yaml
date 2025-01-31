@@ -29,6 +29,8 @@ payload:
   - DOMAIN,sj.haliluya.com
   - DOMAIN,lf3-static.bytednsdoc.com
   - DOMAIN,v5-dy-o-abtest.zjcdn.com
+  - DOMAIN,eden-resource.gameduchy.com
+  - DOMAIN,jp-reso-tongji.gameduchy.com
   - DOMAIN-SUFFIX,amemv.com
   - DOMAIN-SUFFIX,douyincdn.com
   - DOMAIN-SUFFIX,douyin.com
